@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AgeInMinutes</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="calculate_your_age">Calculate Your Age</string>
+    <string name="age">AGE</string>
+    <string name="in_minutes">IN MINUTES</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="_19_14_2014">19-14-2014</string>
+    <string name="selected_date">Selected date</string>
+    <string name="_14400">14400</string>
+    <string name="calculate_age">CALCULATE AGE</string>
+    <string name="in_minutes_till_date">In minutes till date</string>
+</resources>
